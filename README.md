@@ -1,5 +1,5 @@
 # UAVData
 
-UAVData: A large dataset for detecting UAVs
+UAVData: A dataset for detecting UAVs
 
-The dataset and code will be released.
+The dataset and code will be released when the paper is public.
